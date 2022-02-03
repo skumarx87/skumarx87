@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sathish kumar Venkatesan
+
+![](https://komarev.com/ghpvc/?username=skumarx87&color=green)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
